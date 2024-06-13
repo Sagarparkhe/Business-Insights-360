@@ -120,6 +120,7 @@ Datasets are imported from MySQL database to PowerBI using database access crede
 
 Data modeling is crucial for report performance. Good practices, including Snowflake data modeling, are followed.
 
+![data model_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/8ced6061-247e-460b-9a64-26bfe9074a4b)
 
 # Dashboard designing
 
