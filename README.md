@@ -145,7 +145,7 @@ Support
 
 # Overall Report 
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/3f14d971-56c8-4a55-bc99-ed6dbca4c1c4
+[![Watch the video](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/3f14d971-56c8-4a55-bc99-ed6dbca4c1c4)
 
 # Info Page
 
