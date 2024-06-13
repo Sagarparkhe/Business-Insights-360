@@ -149,27 +149,28 @@ Support
 
 # Info Page
 
-
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/b1fbbef2-b426-4d9d-80e1-29e01201ec13
 
 # Finance View
 
-
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/966d2b9d-081b-4fc5-bd24-bd79a1f6bfab
 
 # Sales View 
 
-
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/ad37feee-8074-4f44-97eb-7d3a0cf97663
 
 # Marketing View 
 
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/c7c2009b-67fb-44bd-a938-18f539aa64d4
 
 
 # Supply Chain View 
 
-
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/75f96421-c03c-4561-8509-a7345aac5bbd
 
 # Executive View
 
-
+https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/dce41ad4-0363-43ce-970f-31f6ecfe4bfb
 
 # Project Outcome
 
