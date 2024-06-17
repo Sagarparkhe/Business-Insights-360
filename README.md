@@ -144,34 +144,29 @@ Executive View
 
 Support
 
-# Overall Report 
-
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/3f14d971-56c8-4a55-bc99-ed6dbca4c1c4
-
 # Info Page
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/b1fbbef2-b426-4d9d-80e1-29e01201ec13
+![1st page_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/584cf461-5513-4c30-88a9-e4ca96047813)
 
 # Finance View
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/966d2b9d-081b-4fc5-bd24-bd79a1f6bfab
+![2nd page_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/e4417136-2fe9-43fe-91f4-c1fd1ba5f360)
 
 # Sales View 
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/ad37feee-8074-4f44-97eb-7d3a0cf97663
+![3rd page_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/401df252-1367-4bfd-9804-1db815f235cb)
 
 # Marketing View 
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/c7c2009b-67fb-44bd-a938-18f539aa64d4
-
+![4th page_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/faecaf91-708b-40ee-829a-7c44d5195ac0)
 
 # Supply Chain View 
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/75f96421-c03c-4561-8509-a7345aac5bbd
+![5th page_page-0001](https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/09516eb6-5528-4c0b-9324-853bc17120ec)
 
 # Executive View
 
-https://github.com/Sagarparkhe/Business-Insights-360/assets/171353864/dce41ad4-0363-43ce-970f-31f6ecfe4bfb
+![6th page_page-0001](https://github.com/Sagarparkhe/AtliQ-Attendance-Insights-HR-Analytics/assets/171353864/7c328e73-799b-4175-bd0f-615ed40535c3)
 
 # Project Outcome
 
